@@ -34,5 +34,6 @@ def map_scale(score: float):
 
 - [x] Transition to NVIDIA DALI
 - [x] Map MSP PODCAST, IEMOCAP, RAVDESS to shared labels/scores
+- [ ] Reduce target emotion set to match literature (4-class commonly reported) [DeepSpeech example](https://github.com/speechbrain/speechbrain/tree/develop/recipes/IEMOCAP)
 - [ ] Negative pair mining using the valence, arousal, dominance
 
